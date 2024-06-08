@@ -1,5 +1,5 @@
 # Hello, I'm Anthony! 👋
-## Welcome to my GitHub profile! I'm passionate about coding and technology.
+## Welcome to my GitHub profile! Coding and technology are my joie de vivre.
 
 <div>
   <img alt= "my stats" align="left" width="65%" height="70%" src="https://github-readme-stats.vercel.app/api?username=ngunyigachie&show_icons=true&theme=gruvbox"/>
