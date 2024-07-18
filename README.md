@@ -2,6 +2,7 @@
 ## Welcome to my GitHub profile! Coding and technology are my joie de vivre.
 
 
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngunyigachie)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngunyigachie&show_icons=true"/>
+<img alt="My Languages"  align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngunyigachie&layout=compact"/>
  
 
