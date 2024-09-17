@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Anthony!
 
 ## Backend Developer
-I'm a backend developer skilled in Python, Flask, Django, and SQLAlchemy. I specialize in building efficient, scalable APIs and systems that power dynamic web applications. With strong expertise in backend technologies, I focus on creating robust architectures to support seamless user experiences.
+I'm a backend developer skilled in Python, Flask, and Django. I specialize in building efficient, scalable APIs and systems that power dynamic web applications. With strong expertise in backend technologies, I focus on creating robust architectures to support seamless user experiences.
 
 ## 👨‍💻 Services 👨‍💻
 - 🐍 **Backend Development**: Building scalable and secure APIs and systems using Python, Flask, and Django.
-- 🗄️ **Database Design & Integration**: Designing, optimizing, and integrating databases using SQLAlchemy, SQLite, and PostgreSQL..
+- 🗄️ **Database Design & Integration**: Designing, optimizing, and integrating databases using SQLAlchemy, SQLite, and PostgreSQL.
 - 🔧 **API Development**: Crafting RESTful APIs to support front-end applications and third-party integrations.
 
 ## 📈 GitHub Stats
