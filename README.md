@@ -1,11 +1,12 @@
 # 👋 Hello, I'm Anthony!
 
-## Fullstack Developer
-I'm a fullstack developer skilled in JavaScript, React, Python, Flask, and SQLAlchemy. I enjoy building responsive and dynamic web applications that provide excellent user experiences. With a strong foundation in both frontend and backend technologies, I am equipped to handle all aspects of the development process.
+## Backend Developer
+I'm a backend developer skilled in Python, Flask, Django, and SQLAlchemy. I specialize in building efficient, scalable APIs and systems that power dynamic web applications. With strong expertise in backend technologies, I focus on creating robust architectures to support seamless user experiences.
 
 ## 👨‍💻 Services 👨‍💻
-- 🌐 **Fullstack Development**: Creating seamless and interactive web applications from scratch.
-- 🐍 **Python Engineering**: Developing robust backend systems and APIs using Python and Flask.
+- 🐍 **Backend Development**: Building scalable and secure APIs and systems using Python, Flask, and Django.
+- 🗄️ **Database Design & Integration**: Designing, optimizing, and integrating databases using SQLAlchemy, SQLite, and PostgreSQL..
+- 🔧 **API Development**: Crafting RESTful APIs to support front-end applications and third-party integrations.
 
 ## 📈 GitHub Stats
 <img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngunyigachie&show_icons=true&theme=synthwave"/>
