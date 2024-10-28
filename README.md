@@ -14,7 +14,7 @@ I'm a backend developer skilled in Python, Flask, and Django. I specialize in bu
 
 ## 🔗 Connect with Me
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:antogachie@gmail.com)](mailto:antogachie@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/gachie-ngunyi-8499062b8/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/anthony-gachie-18b7292b8/)
 
 
 
