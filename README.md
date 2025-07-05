@@ -1,22 +1,52 @@
 # 👋 Hello, I'm Anthony!
 
-## Backend Developer
-I'm a backend developer skilled in Python, Flask, and Django. I specialize in building efficient, scalable APIs and systems that power dynamic web applications. With strong expertise in backend technologies, I focus on creating robust architectures to support seamless user experiences.
+## 💸 FinOps Practitioner | ☁️ Cloud Analyst | 🐍 Python Developer
 
-## 👨‍💻 Services 👨‍💻
-- 🐍 **Backend Development**: Building scalable and secure APIs and systems using Python, Flask, and Django.
-- 🗄️ **Database Design & Integration**: Designing, optimizing, and integrating databases using SQLAlchemy, SQLite, and PostgreSQL.
-- 🔧 **API Development**: Crafting RESTful APIs to support front-end applications and third-party integrations.
+I'm passionate about applying cloud cost transparency to infrastructure decisions. As a FinOps-focused cloud analyst, I specialize in extracting actionable insights from AWS usage data to help teams optimize EC2 instances and reduce cloud waste. I build tools in Python to make cloud efficiency measurable, visual, and actionable.
+
+---
+
+## 👨‍💻 What I Do
+
+- 💰 **FinOps Analysis**: Detect underutilized cloud resources, quantify cost-efficiency, and recommend right-sizing strategies.
+- 📊 **CloudWatch + boto3 Automation**: Scripted metric collection, visualization, and reporting from AWS services.
+- 📈 **Cloud Cost Dashboards**: Build real-time dashboards using Dash/Plotly to communicate infrastructure performance clearly.
+- 🐍 **Python Engineering**: Use Flask and Pandas to build reliable, data-driven tools for backend and analytics.
+
+---
+
+## 🚀 Highlight Project: EC2 Cost Optimization Dashboard
+
+An end-to-end FinOps tool to:
+
+- Monitor EC2 usage via CloudWatch
+- Calculate underutilization and estimate costs
+- Compare instance efficiency (e.g., `t2.micro` vs `t3.small`)
+- Recommend better pricing models (spot vs on-demand)
+
+📍 Built using Python, Dash, boto3  
+📊 Live summary dashboard with network + CPU graphs  
+🔗 [View on GitHub](https://github.com/NgunyiGachie/ec2-cost-optimization-dashboard)
+
+---
 
 ## 📈 GitHub Stats
+
 <img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=ngunyigachie&show_icons=true&theme=synthwave"/>
 <img alt="My Languages" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngunyigachie&layout=compact&theme=synthwave"/>
 
+<br clear="both" />
+
+---
+
 ## 🔗 Connect with Me
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:antogachie@gmail.com)](mailto:antogachie@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/anthony-gachie-18b7292b8/)
 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:antogachie@gmail.com)](mailto:antogachie@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-gachie-18b7292b8/)](https://www.linkedin.com/in/anthony-gachie-18b7292b8/)
 
+---
+
+_Cloud efficiency isn't just a billing problem — it's a visibility and strategy problem. I build tools to solve that._
 
 
 
