@@ -26,7 +26,7 @@ An end-to-end FinOps tool to:
 
 📍 Built using Python, Dash, boto3  
 📊 Live summary dashboard with network + CPU graphs  
-🔗 [View on GitHub](https://github.com/NgunyiGachie/ec2-cost-optimization-dashboard)
+🔗 [View Summary Dashboard](https://ec2-cost-optimization-dashboard-5.onrender.com/)
 
 ---
 
