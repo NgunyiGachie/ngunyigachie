@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Anthony!
 
-## 💸 FinOps Practitioner | ☁️ Cloud Analyst | 🐍 Python Developer
+## 💸 FinOps Practitioner | ☁️ Cloud Analyst | 🐍 Python Programmer
 
-I'm passionate about applying cloud cost transparency to infrastructure decisions. As a FinOps-focused cloud analyst, I specialize in extracting actionable insights from AWS usage data to help teams optimize EC2 instances and reduce cloud waste. I build tools in Python to make cloud efficiency measurable, visual, and actionable.
+I'm passionate about applying cloud cost transparency to infrastructure decisions. As a FinOps-focused cloud analyst, I specialize in extracting actionable insights from AWS usage data to help teams optimize resource usage and reduce cloud waste. I build tools in Python to make cloud efficiency measurable, visual, and actionable.
 
 ---
 
