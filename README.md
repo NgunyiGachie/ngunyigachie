@@ -11,7 +11,7 @@ I'm passionate about applying cloud cost transparency to infrastructure decision
 - 💰 **FinOps Analysis**: Detect underutilized cloud resources, quantify cost-efficiency, and recommend right-sizing strategies.
 - 📊 **CloudWatch + boto3 Automation**: Scripted metric collection, visualization, and reporting from AWS services.
 - 📈 **Cloud Cost Dashboards**: Build real-time dashboards using Dash/Plotly to communicate infrastructure performance clearly.
-- 🐍 **Python Engineering**: Use Flask and Pandas to build reliable, data-driven tools for backend and analytics.
+- 🐍 **Python Engineering**: Use Flask and Pandas to build reliable, data-driven tools for analytics and visualization.
 
 ---
 
